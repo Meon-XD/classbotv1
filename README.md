@@ -15,7 +15,8 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 - Mengirimkan menu dan informasi terkait fitur bot.
 - Mendukung fitur pembuatan stiker dari gambar.
 - Pengiriman pesan otomatis berdasarkan jadwal yang telah disusun.
-- Update terbaru akan kami infokan di saluran whatsapp kami (https://whatsapp.com/channel/0029VajUoDV9mrGmUXtZy91a)
+- Update terbaru akan kami infokan di saluran whatsapp kami
+('https://whatsapp.com/channel/0029VajUoDV9mrGmUXtZy91a')
 
 ## Setup Bot di Termux
 
