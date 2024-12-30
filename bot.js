@@ -138,6 +138,10 @@ function startBot(sock) {
                             }
                             break;
                         }
+                            case 'sc': case 'script': {
+                          await sendMessage(sock, sender, 'script bot classbot\n\nhttps://github.com/Meon-XD/classbot')
+                        }
+                        break;
 
                         default:
                             await sendMessage(sock, sender, `Perintah tidak dikenal. Ketik ${prefix}menu untuk melihat daftar fitur.`);
