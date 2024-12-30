@@ -16,9 +16,6 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 - Mendukung fitur pembuatan stiker dari gambar.
 - Pengiriman pesan otomatis berdasarkan jadwal yang telah disusun.
 - Update terbaru akan kami infokan di saluran whatsapp kami
-- [Klik isini](https://whatsapp.com/channel/0029VajUoDV9mrGmUXtZy91a)
-
-
 
 ## Setup Bot di Termux
 
@@ -131,6 +128,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Copyright
 
 Copyright © 2024 Mr.RDT. All rights reserved.
+
+## Contact Me
 
 ---
 
