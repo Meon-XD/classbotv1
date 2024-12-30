@@ -15,6 +15,7 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 - Mengirimkan menu dan informasi terkait fitur bot.
 - Mendukung fitur pembuatan stiker dari gambar.
 - Pengiriman pesan otomatis berdasarkan jadwal yang telah disusun.
+- Update terbaru akan kami infokan di saluran whatsapp kami (https://whatsapp.com/channel/0029VajUoDV9mrGmUXtZy91a)
 
 ## Setup Bot di Termux
 
@@ -30,8 +31,8 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 2. **Clone Repository**
    Clone repository ini ke Termux.
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Meon-XD/classbotv1
+   cd classbotv1
    ```
 
 3. **Install NPM Dependencies**
@@ -118,7 +119,7 @@ Bot dapat memberikan reaksi pada pesan menggunakan emotikon.
 
 ## Link Script Ini
 
-- [GitHub Repository](https://github.com/username/repository-name)
+- [GitHub Repository](https://github.com/Meon-XD/classbotv1)
 
 ## License
 
