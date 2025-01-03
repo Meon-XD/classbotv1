@@ -14,16 +14,13 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 1. **Install Dependencies**
    Pastikan Anda sudah menginstall **Node.js** dan **npm** di Termux.
 
+2. **Clone Repository**
+   Clone repository ini ke Termux.
    ```bash
    pkg update
    pkg upgrade
    pkg install nodejs
    pkg install git
-   ```
-
-2. **Clone Repository**
-   Clone repository ini ke Termux.
-   ```bash
    git clone https://github.com/Meon-XD/classbotv1
    cd classbotv1
    ```
