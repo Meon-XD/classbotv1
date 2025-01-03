@@ -1,4 +1,3 @@
-Berikut adalah kode lengkap untuk file `README.md` yang bisa digunakan di repositori GitHub bot WhatsApp Anda. Pastikan untuk menyesuaikan beberapa bagian yang sesuai dengan proyek Anda.
 
 ```markdown
 # WhatsApp Bot by Mr.RDT
