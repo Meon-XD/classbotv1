@@ -140,3 +140,4 @@ Terima kasih telah menggunakan bot WhatsApp ini. Kami harap bot ini membantu And
 - **Penjelasan Fitur**: Rincian tentang fitur-fitur utama bot.
 - **Link Script Ini**: Link ke repositori GitHub tempat script ini di-host.
 - **License dan Copyright**: Informasi lisensi dan hak cipta untuk proyek ini.
+```
