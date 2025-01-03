@@ -1,5 +1,4 @@
-
-```markdown
+markdown
 # WhatsApp Bot by Mr.RDT
 
 Bot WhatsApp ini dikembangkan oleh Mr.RDT untuk membantu dalam pengelolaan jadwal, pengiriman media, serta berbagai fitur interaktif lainnya melalui WhatsApp.
@@ -13,25 +12,27 @@ Bot ini memungkinkan Anda untuk mengatur pengingat jadwal, mengirim media sepert
 
 1. **Install Dependencies**
    Pastikan Anda sudah menginstall **Node.js** dan **npm** di Termux.
-
-2. **Clone Repository**
-   Clone repository ini ke Termux.
    ```bash
    pkg update
    pkg upgrade
    pkg install nodejs
    pkg install git
+   ```
+
+3. **Clone Repository**
+   Clone repository ini ke Termux.
+   ```bash
    git clone https://github.com/Meon-XD/classbotv1
    cd classbotv1
    ```
 
-3. **Install NPM Dependencies**
+4. **Install NPM Dependencies**
    Install semua dependensi yang diperlukan untuk menjalankan bot.
    ```bash
    npm install
    ```
 
-4. **Jalankan Bot**
+5. **Jalankan Bot**
    Setelah selesai menginstall, jalankan bot dengan perintah berikut:
    ```bash
    node index.js
