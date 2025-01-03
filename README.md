@@ -1,4 +1,4 @@
-markdown
+```markdown
 # WhatsApp Bot by Mr.RDT
 
 Bot WhatsApp ini dikembangkan oleh Mr.RDT untuk membantu dalam pengelolaan jadwal, pengiriman media, serta berbagai fitur interaktif lainnya melalui WhatsApp.
@@ -140,5 +140,3 @@ Terima kasih telah menggunakan bot WhatsApp ini. Kami harap bot ini membantu And
 - **Penjelasan Fitur**: Rincian tentang fitur-fitur utama bot.
 - **Link Script Ini**: Link ke repositori GitHub tempat script ini di-host.
 - **License dan Copyright**: Informasi lisensi dan hak cipta untuk proyek ini.
-
-Silakan mengganti placeholder seperti `username/repository-name` dengan informasi yang sesuai dengan repositori GitHub Anda.
